@@ -1,5 +1,5 @@
 {
-  "version": "1.0.0",
-  "url": "https://github.com/FMedia-group/FMYoutubeVideoInfo/releases/download/v1.0.0/FM_Youtube_Video_Info.exe",
-  "changelog": "- Ra mat ung dung FM Youtube Video Info\n- Tich hop tinh nang tu dong cap nhat"
+  "version": "1.0.1",
+  "url": "https://github.com/FMedia-group/FMYoutubeVideoInfo/releases/download/v1.0.1/FM_Youtube_Video_Info.exe",
+  "changelog": "- Tối ưu hoá giao diện Header (màu sắc, tỷ lệ)\n- Sửa lỗi lấy phụ đề và thêm tính năng hỗ trợ tải phụ đề gốc"
 }
